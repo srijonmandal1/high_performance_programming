@@ -1,4 +1,4 @@
-# Best Practices for Scalable Python Programming
+# Best Practices and Sample Examples for Scalable Python Programming
 The Repository shows examples of High Performance Programming
 
 ## Best Practices 
@@ -41,6 +41,13 @@ Consider using NoSQL databases for horizontal scalability and handling unstructu
 ### Cloud-based and Distributed Computing:
 Utilize cloud services (like AWS, Google Cloud, Azure) for scalable storage and computing resources.
 For large-scale data processing, consider distributed computing frameworks like Apache Spark.
+
+## Libraries which can be used for scalable programming 
+
+### Ray
+- Ray is a unified framework for scaling AI and Python applications.
+- Link: https://github.com/ray-project/ray/
+
 
 ## Sample Examples
 
